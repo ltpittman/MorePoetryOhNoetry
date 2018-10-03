@@ -5,7 +5,7 @@ import pycorpora
 
 #My poem:
 poem = """
-   Within a day in Novemeber, 
+   Within a day in November, 
    There is much snow in the sky. 
    The {0} gathers food and such,
    While the snow that fell was soft to the touch. 
